@@ -1,1 +1,2 @@
-My edited first readme
+This repository contains projects on Onboarding - Tools
+0x01. Git
